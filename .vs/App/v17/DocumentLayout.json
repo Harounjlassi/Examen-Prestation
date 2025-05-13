@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8CB14-A9F1-4A51-BD3A-9D75FED27AFB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8CB14-A9F1-4A51-BD3A-9D75FED27AFB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\services\\prestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\services\\prestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NomPrenomPrestation/True/SqlTable/dbo.Specialite.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NomPrenomPrestation/True/SqlTable/dbo.Prestataire.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\domain\\intitule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\domain\\intitule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NomPrenomPrestation/True/SqlTable/dbo.Client.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\services\\prestationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\services\\prestationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\interfaces\\iprestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\interfaces\\iprestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\interfaces\\iprestationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\interfaces\\iprestationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E6BD67-1B5D-474D-9189-BC23071A88EE}|App.ApplicationCore\\App.ApplicationCore.csproj|solutionrelative:app.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB139B3-1E13-4512-BBB7-E7FACBBF3EBD}|App.UI.Web\\App.UI.Web.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.ui.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BB139B3-1E13-4512-BBB7-E7FACBBF3EBD}|App.UI.Web\\App.UI.Web.csproj|solutionrelative:app.ui.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.infrastructure\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.infrastructure\\configurations\\prestationconiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\configurations\\prestationconiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examen-prestation\\prototype\\app\\app.infrastructure\\migrations\\20250513003552_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C96AA-546E-44EC-A2F1-EDEA45B95257}|App.Infrastructure\\App.Infrastructure.csproj|solutionrelative:app.infrastructure\\migrations\\20250513003552_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:07:48.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Client [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NomPrenomPrestation/True/SqlTable/dbo.Client.sql",
+              "ToolTip": "dbo.Client [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T10:41:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Specialite.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Specialite.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Domain\\Specialite.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Specialite.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Domain\\Specialite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:01:28.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\Context.cs",
+              "RelativeDocumentMoniker": "App.Infrastructure\\Context.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\Context.cs",
+              "RelativeToolTip": "App.Infrastructure\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:32:03.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestataireService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Services\\PrestataireService.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Services\\PrestataireService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Services\\PrestataireService.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Services\\PrestataireService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:39:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Prestataire [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NomPrenomPrestation/True/SqlTable/dbo.Prestataire.sql",
+              "ToolTip": "dbo.Prestataire [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T10:43:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Specialite [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NomPrenomPrestation/True/SqlTable/dbo.Specialite.sql",
+              "ToolTip": "dbo.Specialite [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T10:45:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Intitule.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Intitule.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Domain\\Intitule.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Intitule.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Domain\\Intitule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:01:49.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrestationService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Services\\PrestationService.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Services\\PrestationService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Services\\PrestationService.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Services\\PrestationService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:10:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prestataire.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Prestataire.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Domain\\Prestataire.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Prestataire.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Domain\\Prestataire.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:01:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPrestataireService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Interfaces\\IPrestataireService.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Interfaces\\IPrestataireService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Interfaces\\IPrestataireService.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Interfaces\\IPrestataireService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:39:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPrestationService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Interfaces\\IPrestationService.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Interfaces\\IPrestationService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Interfaces\\IPrestationService.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Interfaces\\IPrestationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:10:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:39:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prestation.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Prestation.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Domain\\Prestation.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Prestation.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Domain\\Prestation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:01:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Domain\\Client.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Domain\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:00:52.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "App.ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.ApplicationCore\\Services\\Service.cs",
+              "RelativeToolTip": "App.ApplicationCore\\Services\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:45:53.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.UI.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "App.UI.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.UI.Web\\appsettings.json",
+              "RelativeToolTip": "App.UI.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T00:32:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250513003552_base.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\Migrations\\20250513003552_base.cs",
+              "RelativeDocumentMoniker": "App.Infrastructure\\Migrations\\20250513003552_base.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\Migrations\\20250513003552_base.cs",
+              "RelativeToolTip": "App.Infrastructure\\Migrations\\20250513003552_base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:35:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InfrastructureExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\InfrastructureExtensions.cs",
+              "RelativeDocumentMoniker": "App.Infrastructure\\InfrastructureExtensions.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\InfrastructureExtensions.cs",
+              "RelativeToolTip": "App.Infrastructure\\InfrastructureExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:38:03.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrestationConiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\Configurations\\PrestationConiguration.cs",
+              "RelativeDocumentMoniker": "App.Infrastructure\\Configurations\\PrestationConiguration.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\Examen-Prestation\\Prototype\\App\\App.Infrastructure\\Configurations\\PrestationConiguration.cs",
+              "RelativeToolTip": "App.Infrastructure\\Configurations\\PrestationConiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:26:32.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1039,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1029,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\bin\Debug\net8.0\App.ApplicationCore.deps.json
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\bin\Debug\net8.0\App.ApplicationCore.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\bin\Debug\net8.0\App.ApplicationCore.pdb
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\App.ApplicationCore.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\refint\App.ApplicationCore.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\App.ApplicationCore.pdb
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\Examen-Prestation\Prototype\App\App.ApplicationCore\obj\Debug\net8.0\ref\App.ApplicationCore.dll
